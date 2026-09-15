@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Li"
+    given-names: "Jingyi"
+    affiliation: "Tianjin University"
+  - family-names: "Wu"
+    given-names: "Huaming"
+    affiliation: "Tianjin University"
+  - family-names: "Zhang"
+    given-names: "Haixiang"
+    affiliation: "Tianjin University"
+    email: "haixiang.zhang@tju.edu.cn"
+title: "Deep High-Dimensional Mediation Analysis for Survival Outcomes"
+version: 1.0.0
+date-released: 2026-09-05
+url: "https://github.com/cvvvfvfvf/deep-hima"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Li"
+      given-names: "Jingyi"
+    - family-names: "Wu"
+      given-names: "Huaming"
+    - family-names: "Zhang"
+      given-names: "Haixiang"
+  title: "Identifying Damage Pathways Linking Sequence Composition to Storage Failure in DNA Data Storage via High-Dimensional Mediation Analysis"
+  year: 2026
+  journal: "Under Review"
